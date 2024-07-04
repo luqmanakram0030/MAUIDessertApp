@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3E13E649-87A3-406B-928D-D385DAC4D050}|Default">
+  <MonoDevelop.Ide.ItemProperties.Desserts PreferredExecutionTarget="Android.pixel_6_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.85" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_6_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Desserts/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Desserts/MainPage.xaml.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Desserts">
+            <Node name="Desserts">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/MainPage.xaml.cs" relfile="Desserts/MainPage.xaml.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

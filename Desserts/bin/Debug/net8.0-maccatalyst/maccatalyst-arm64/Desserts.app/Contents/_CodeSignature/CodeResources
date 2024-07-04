@@ -10,7 +10,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		Py602DNzTIMZuQPVRQviCcbSnsA=
+		8UmR87seeh0L6mXjM8NpgOHXZZY=
+		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		iEtuUGCV6JM3gxS/pO33swhmpp8=
 		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Resources/appicon.icns</key>
 		<data>
-		L9cHAOVSlaW2jMaBgy7GlIBZdZg=
+		3n+MF0cntX4SuJArMi0b0mxgW8g=
 		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
@@ -47,14 +51,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QEf1iQG/tm+fYGPDxjRQtvg7kHYxAY7eyGDXUJB3DzE=
+			pNlwMOeMyrC5PC3GnqdD0HNraJRBQjo2liVDZmEo8EY=
 			</data>
 		</dict>
 		<key>MonoBundle/Desserts.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4ZI789Srjwqf8f5oWCGvhz8uhVsLVaWLB7wcPtkr3w=
+			ZEVcroofD2j9VQdLrAShXaK7ASEq/GtHEYhF5/bDZyg=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1622,7 +1626,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNqiHjPnJLMPdPTzgUtWziKGRTzP71o1sYVc9T906kw=
+			p5R98GhufJysYBc/Cbw1vK0i6y4nCsO9FUCHgfR0jh4=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
@@ -1650,7 +1661,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H4w+DqGNITnXOEy4UxkSBph9BjGxHf/ui2zq6lzv5a0=
+			KViNXSKNkFEY7PhDehF2zvK6/mUYF53qqXPvChd6Dag=
 			</data>
 		</dict>
 		<key>Resources/dotnet_bot.png</key>

@@ -1,7 +1,4 @@
-﻿using System.Net;
-using System.Net.Sockets;
-
-namespace Desserts;
+﻿namespace Desserts;
 
 public partial class MainPage : ContentPage
 {
@@ -14,23 +11,15 @@ public partial class MainPage : ContentPage
 
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
-        CounterBtn.Text = NetworkHelper.GetLocalIPAddress();
-    }
-}
-public static class NetworkHelper
-{
-    public static string GetLocalIPAddress()
-    {
-        var hostName = Dns.GetHostName();
-        var addresses = Dns.GetHostAddresses(hostName);
-        var ipv4Address = addresses.FirstOrDefault(addr => addr.AddressFamily == AddressFamily.InterNetwork);
+		count++;
 
-        if (ipv4Address != null)
-        {
-            return ipv4Address.ToString();
-        }
+		if (count == 1)
+			CounterBtn.Text = $"Clicked {count} time";
+		else
+			CounterBtn.Text = $"Clicked {count} times";
 
-        return "No IP Address Found";
-    }
+		SemanticScreenReader.Announce(CounterBtn.Text);
+	}
 }
+
 
