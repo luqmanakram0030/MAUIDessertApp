@@ -13805,7 +13805,7 @@
         }
       }
     },
-    "net8.0-android34.0/iossimulator-arm64": {
+    "net8.0-android34.0/iossimulator-x64": {
       "FirebaseAuthentication.net/3.7.2": {
         "type": "package",
         "dependencies": {
@@ -29504,7 +29504,7 @@
         }
       }
     },
-    "net8.0-ios17.2/iossimulator-arm64": {
+    "net8.0-ios17.2/iossimulator-x64": {
       "FirebaseAuthentication.net/3.7.2": {
         "type": "package",
         "dependencies": {
@@ -43911,7 +43911,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.2/iossimulator-arm64": {
+    "net8.0-maccatalyst17.2/iossimulator-x64": {
       "FirebaseAuthentication.net/3.7.2": {
         "type": "package",
         "dependencies": {
@@ -55851,7 +55851,7 @@
       "android-x86": {
         "#import": []
       },
-      "iossimulator-arm64": {
+      "iossimulator-x64": {
         "#import": []
       },
       "maccatalyst-arm64": {

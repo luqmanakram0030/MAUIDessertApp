@@ -326,3 +326,9 @@
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/obj/Debug/net8.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/logo.appiconset/logo20x20@2x.png
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/obj/Debug/net8.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/logo.appiconset/Contents.json
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/obj/Debug/net8.0-ios/iossimulator-x64/Desserts.sourcelink.json
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/Firebase.Auth.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/Firebase.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/LiteDB.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/Newtonsoft.Json.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/System.Reactive.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/System.Runtime.InteropServices.WindowsRuntime.dll

@@ -34,6 +34,9 @@
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/runtimeconfig.bin
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Firebase.Auth.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Firebase.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/LiteDB.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.Extensions.Configuration.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.Extensions.DependencyInjection.dll
@@ -49,6 +52,9 @@
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.Maui.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.Maui.Essentials.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.Maui.Graphics.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Newtonsoft.Json.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/System.Reactive.dll
+/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/System.Runtime.InteropServices.WindowsRuntime.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Desserts.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.CSharp.dll
 /Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Desserts.app/Microsoft.VisualBasic.Core.dll

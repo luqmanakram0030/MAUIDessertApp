@@ -75,9 +75,4 @@
 	  <None Remove="Resources\AppIcon\logo.png" />
 	  <None Remove="Resources\Splash\logo.svg" />
 	</ItemGroup>
-	<ItemGroup>
-	  <MauiXaml Update="Controls\CountryControl.xaml">
-	    <SubType></SubType>
-	  </MauiXaml>
-	</ItemGroup>
 </Project>

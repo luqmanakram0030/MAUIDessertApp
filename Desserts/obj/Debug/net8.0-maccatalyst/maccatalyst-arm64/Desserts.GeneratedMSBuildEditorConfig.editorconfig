@@ -28,12 +28,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = Desserts.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/Controls/CountryControl.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Desserts.Controls.CountryControl.xaml
-build_metadata.AdditionalFiles.TargetPath = Controls/CountryControl.xaml
-build_metadata.AdditionalFiles.RelativePath = Controls/CountryControl.xaml
-
 [/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Desserts.MainPage.xaml
