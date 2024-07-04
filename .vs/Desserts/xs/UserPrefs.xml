@@ -5,27 +5,22 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.85" />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_6_-_api_33" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Desserts/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Desserts/Domain/Services/Implementation/BuyingListService.cs">
     <Files>
-      <File FileName="Desserts/MainPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="Desserts/Domain/Models/CountryModel.cs" Line="2" Column="7" />
+      <File FileName="Desserts/Domain/Services/Implementation/BuyingListService.cs" Line="17" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Desserts">
-            <Node name="Desserts">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Desserts" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/luqmanakram/Documents/GitHub/Desserts/Untitled/Desserts/MainPage.xaml.cs" relfile="Desserts/MainPage.xaml.cs" line="13" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

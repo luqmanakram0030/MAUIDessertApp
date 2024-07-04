@@ -66,10 +66,18 @@
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="FirebaseAuthentication.net" Version="3.7.2" />
+		<PackageReference Include="FirebaseDatabase.net" Version="4.2.0" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <None Remove="Resources\AppIcon\logo.png" />
 	  <None Remove="Resources\Splash\logo.svg" />
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiXaml Update="Controls\CountryControl.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
 	</ItemGroup>
 </Project>
